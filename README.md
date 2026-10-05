@@ -9,4 +9,4 @@ Cybersecurity professional with a Master's in Cybersecurity (Distinction) from C
 
 📌 Pinned below: my final year project and hands-on CTF/lab writeups
 
-📫 Connect with me: [LinkedIn] | [Portfolio site]
+📫 Connect with me: [LinkedIn](www.linkedin.com/in/emmanuelnweke)
