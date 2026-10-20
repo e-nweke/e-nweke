@@ -7,6 +7,6 @@ Cybersecurity professional with a Master's in Cybersecurity (Distinction) from C
 🎯 Currently seeking SOC Analyst / Cybersecurity roles in the UK
 🚀 Long-term goal: moving into Cloud Security Engineering
 
-📌 Pinned below: my final year project and hands-on CTF/lab writeups
+📌 Featured project: [AWS IAM Misconfiguration Detection & Mitigation](https://github.com/e-nweke/aws-iam-misconfiguration-detection) (MSc dissertation, Distinction)
 
 📫 Connect with me: [LinkedIn](www.linkedin.com/in/emmanuelnweke)
