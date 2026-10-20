@@ -9,4 +9,4 @@ Cybersecurity professional with a Master's in Cybersecurity (Distinction) from C
 
 📌 Featured project: [AWS IAM Misconfiguration Detection & Mitigation](https://github.com/e-nweke/aws-iam-misconfiguration-detection) (MSc dissertation, Distinction)
 
-📫 Connect with me: [LinkedIn](www.linkedin.com/in/emmanuelnweke)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/emmanuelnweke)
