@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel 👋
 
-Cybersecurity professional based in the UK. MSc Cybersecurity (Distinction), Coventry University, with ~18 months as a Cybersecurity Analyst at NUPRC in Nigeria and earlier network/security engineering internship experience.
+Cybersecurity professional based in the UK. MSc Cybersecurity (Distinction), Coventry University, with ~18 months as a Cybersecurity Analyst at NUPRC and earlier network/security engineering internship experience.
 
 🎯 **Currently seeking SOC Analyst and cybersecurity roles in the UK**
 🚀 Working toward cloud security engineering longer term
